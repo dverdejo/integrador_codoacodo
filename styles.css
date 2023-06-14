@@ -1,0 +1,28 @@
+* { 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+  
+.navbar {
+    height: 70px;
+}
+
+.navbar-brand img {
+    width: 90px;
+}
+
+.carousel-inner img {
+    max-height: 550px;
+    filter: brightness(50%);
+}
+
+.carousel-inner{
+    height: 500px;
+}
+
+.carousel-caption {
+    width: 500px;
+    margin-left: 500px;
+    margin-bottom: 100px;
+}
