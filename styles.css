@@ -30,3 +30,12 @@
 .card-text{
     font-size: small;
 }
+
+.sides {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.der p{
+    font-size:medium;
+}
