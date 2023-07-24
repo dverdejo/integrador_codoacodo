@@ -5,11 +5,17 @@
 }
   
 .navbar {
-    height: 70px;
+    height: 60px;
 }
 
 .navbar-brand img {
     width: 90px;
+}
+
+.barra-desplegada {
+    text-align: center;
+    background-color: darkblue;
+    z-index: 80;
 }
 
 .carousel-inner img {
@@ -17,14 +23,14 @@
     filter: brightness(50%);
 }
 
-.carousel-inner{
-    height: 500px;
+.carousel-caption {
+    width: 400px;
+    margin-left: 600px;
+    margin-bottom: 10px;
 }
 
-.carousel-caption {
-    width: 500px;
-    margin-left: 500px;
-    margin-bottom: 100px;
+.oradores {
+    max-height: 450px;
 }
 
 .card-text{
